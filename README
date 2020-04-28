@@ -1,4 +1,4 @@
-This project is for my thesis. I'll be doing a sentiment analysis of Twitter users in response to consumer data protection regulations like the GDPR and CCPA.
-This repository will be used as a store of info gathered from Twitter in order to perform a geographic exploration of general user sentiment.
-This will be used to generate figures for use in my thesis, that will showcase broad trends over time.
+This project is for the IBM Data Science Coursera capstone course.
+I will be using the FourSquare API to segment & cluster neighborhoods in Toronto.
+The project will also include a nice visualization to help display my findings.
 Thanks for reading!
